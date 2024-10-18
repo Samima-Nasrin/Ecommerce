@@ -8,7 +8,6 @@ A **full-stack eCommerce application** built with the **MERN stack**, featuring 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Environment Variables](#environment-variables)
 - [Run Locally](#run-locally)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
