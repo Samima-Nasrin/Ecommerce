@@ -1,4 +1,4 @@
-# eCommerce Clothing Store (MERN)
+# e-Commerce Clothing Store (MERN)
 
 A **full-stack eCommerce application** built with the **MERN stack**, featuring authentication, PayPal payment integration, cart management, order tracking, and a dedicated admin panel for managing products, users, and orders.
 
